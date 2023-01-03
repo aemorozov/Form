@@ -1,1 +1,2 @@
-# Реализация простой формы для вводы и передачи данных.
+# Form
+A simle form for entering and submitting data
